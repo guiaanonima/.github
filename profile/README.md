@@ -1,10 +1,10 @@
 <h1 align="center"> Guia Anônima </h1>
 <div align="center">
     <a id="logo-light" href="https://guiaanonima.com#gh-light-mode-only">
-    <img src='./img/2.png' width=150" />
+    <img src='https://raw.githubusercontent.com/guiaanonima/.github/main/profile/img/2.png' width=150" />
     </a>
     <a id="logo-dark" href="https://guiaanonima.com#gh-dark-mode-only">
-    <img src='./img/1.png' width=150" />
+    <img src='https://raw.githubusercontent.com/guiaanonima/.github/main/profile/img/1.png' width=150" />
     </a>
 </div>
 
