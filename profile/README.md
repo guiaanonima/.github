@@ -1,4 +1,4 @@
-<h1 align="center"> Guia Anônima </h1>
+<h1 align="center">Guia Anônima</h1>
 <div align="center">
     <a id="logo-light" href="https://guiaanonima.com#gh-light-mode-only">
     <img src='https://raw.githubusercontent.com/guiaanonima/.github/main/profile/img/2.png' width=150" />
