@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-    Guia Anônima é uma comunidade de Segunrança da Informação.
+    Guia Anônima é uma comunidade de Segurança da Informação.
     <br>
     Nós visamos o compartilhamento de conhecimento, independente do nível.
     <br>
